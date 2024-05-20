@@ -1,0 +1,17 @@
+C:\Users\Hasan_Helvali\Desktop\RabbitMQ-Cunsomer\bin\Debug\net8.0\RabbitMQ-Cunsomer.exe
+C:\Users\Hasan_Helvali\Desktop\RabbitMQ-Cunsomer\bin\Debug\net8.0\RabbitMQ-Cunsomer.deps.json
+C:\Users\Hasan_Helvali\Desktop\RabbitMQ-Cunsomer\bin\Debug\net8.0\RabbitMQ-Cunsomer.runtimeconfig.json
+C:\Users\Hasan_Helvali\Desktop\RabbitMQ-Cunsomer\bin\Debug\net8.0\RabbitMQ-Cunsomer.dll
+C:\Users\Hasan_Helvali\Desktop\RabbitMQ-Cunsomer\bin\Debug\net8.0\RabbitMQ-Cunsomer.pdb
+C:\Users\Hasan_Helvali\Desktop\RabbitMQ-Cunsomer\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\Hasan_Helvali\Desktop\RabbitMQ-Cunsomer\obj\Debug\net8.0\RabbitMQ-Cunsomer.csproj.AssemblyReference.cache
+C:\Users\Hasan_Helvali\Desktop\RabbitMQ-Cunsomer\obj\Debug\net8.0\RabbitMQ-Cunsomer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasan_Helvali\Desktop\RabbitMQ-Cunsomer\obj\Debug\net8.0\RabbitMQ-Cunsomer.AssemblyInfoInputs.cache
+C:\Users\Hasan_Helvali\Desktop\RabbitMQ-Cunsomer\obj\Debug\net8.0\RabbitMQ-Cunsomer.AssemblyInfo.cs
+C:\Users\Hasan_Helvali\Desktop\RabbitMQ-Cunsomer\obj\Debug\net8.0\RabbitMQ-Cunsomer.csproj.CoreCompileInputs.cache
+C:\Users\Hasan_Helvali\Desktop\RabbitMQ-Cunsomer\obj\Debug\net8.0\RabbitMQ-Cunsomer.csproj.CopyComplete
+C:\Users\Hasan_Helvali\Desktop\RabbitMQ-Cunsomer\obj\Debug\net8.0\RabbitMQ-Cunsomer.dll
+C:\Users\Hasan_Helvali\Desktop\RabbitMQ-Cunsomer\obj\Debug\net8.0\refint\RabbitMQ-Cunsomer.dll
+C:\Users\Hasan_Helvali\Desktop\RabbitMQ-Cunsomer\obj\Debug\net8.0\RabbitMQ-Cunsomer.pdb
+C:\Users\Hasan_Helvali\Desktop\RabbitMQ-Cunsomer\obj\Debug\net8.0\RabbitMQ-Cunsomer.genruntimeconfig.cache
+C:\Users\Hasan_Helvali\Desktop\RabbitMQ-Cunsomer\obj\Debug\net8.0\ref\RabbitMQ-Cunsomer.dll
